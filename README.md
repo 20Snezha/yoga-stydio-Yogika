@@ -1,2 +1,2 @@
-# yoga-stydio-Yogika
-yoga-stydio-Yogika
+# yoga-studio-Yogika
+yoga-studio-Yogika
